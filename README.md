@@ -1,6 +1,6 @@
 ### 👋 Hello there, I'm James / JammyJimJim and i'm a student at the University of Hull
 - 🌱 I’m currently Studying computer science for games development
-- 📫 How to reach me: Discord: JammyJimJim#1992, [Discord](https://discordapp.com/users/307565373090430977), [Steam](https://steamcommunity.com/id/JammyJimJim)
+- 📫 How to reach me: [Discord](https://discordapp.com/users/307565373090430977), [Steam](https://steamcommunity.com/id/JammyJimJim)
 - 😄 Pronouns: He/Him
 - 💖 I love C# and occasionally JS
 <!--
