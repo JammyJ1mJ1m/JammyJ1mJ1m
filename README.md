@@ -3,11 +3,12 @@
 - 📫 How to reach me: [Discord](https://discordapp.com/users/307565373090430977), [Steam](https://steamcommunity.com/id/JammyJimJim)
 - 😄 Pronouns: He/Him
 - 💖 I love C# and occasionally JS
-
+<!--
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/JammyJ1mJ1m/count.svg" />
 </p>
+-->
 <!--
 **JammyJ1mJ1m/JammyJ1mJ1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
