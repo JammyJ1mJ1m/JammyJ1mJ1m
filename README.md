@@ -1,8 +1,10 @@
-### 👋 Hello there, I'm James / JammyJimJim and i'm a student at the University of Hull
-- 🌱 I’m currently Studying computer science for games development
-- 📫 How to reach me: [Discord](https://discordapp.com/users/307565373090430977), [Steam](https://steamcommunity.com/id/JammyJimJim)
+### 👋 Hello there, I'm James / JammyJimJim and I'm a student at the University of Hull
+- 🌱 I’m currently Studying Computer Science for Games Development
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/james-winnett-75bb361b7/)
 - 😄 Pronouns: He/Him
-- 💖 I love C# and occasionally JS
+- 💖 I love c++ and C#
+- 🔭 I’m currently working on a real-time rendering DX11 application 
+- 
 <!--
 <p align="center"> 
   Visitor count<br>
