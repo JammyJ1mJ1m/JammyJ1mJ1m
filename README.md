@@ -4,7 +4,7 @@
 - 😄 Pronouns: He/Him
 - 💖 I love c++ and C#
 - 🔭 I’m currently working on a real-time rendering DX11 application 
-- 
+  
 <!--
 <p align="center"> 
   Visitor count<br>
