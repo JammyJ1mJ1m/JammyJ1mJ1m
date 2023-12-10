@@ -2,7 +2,7 @@
 - 🌱 I’m currently Studying Computer Science for Games Development
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/james-winnett-75bb361b7/)
 - 😄 Pronouns: He/Him
-- 💖 I love c++ and C#
+- 💖 I love C++ and C#
 - 🔭 I’m currently working on a real-time rendering DX11 application 
   
 <!--
