@@ -3,7 +3,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/james-winnett-75bb361b7/)
 - 😄 Pronouns: He/Him
 - 💖 I love C++ and C#
-- 🔭 I’m currently working on a real-time rendering DX11 application 
+- 🔭 I'm currently working on a cookie clicker clone
   
 <!--
 <p align="center"> 
