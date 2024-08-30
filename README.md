@@ -1,5 +1,5 @@
-### 👋 Hello there, I'm James / JammyJimJim and I'm a student at the University of Hull
-- 🌱 I’m currently Studying Computer Science for Games Development
+### 👋 Hello there, I'm James / JammyJimJim and I'm a recent master's graduate from the University of Hull
+- 🌱 I’m currently developing projects in my spare time
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/james-winnett-75bb361b7/)
 - 😄 Pronouns: He/Him
 - 💖 I love C++ and C#
